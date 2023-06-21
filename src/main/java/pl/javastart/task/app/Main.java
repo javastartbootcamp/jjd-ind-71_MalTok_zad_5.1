@@ -1,4 +1,6 @@
-package pl.javastart.task;
+package pl.javastart.task.app;
+
+import pl.javastart.task.logic.CoordinateSystem;
 
 import java.util.Scanner;
 
